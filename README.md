@@ -1,1 +1,1 @@
-# admin-dashboard
+# Minimalistic and beautiful admin dashboard in bright and pleasant colors.
